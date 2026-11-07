@@ -3,15 +3,17 @@
   <img src="./gesture-banner.gif" alt="Aditya Renake · Machine learning, data analysis, and computer vision. Illustrations cycle through hand tracking, a neural network, and a scatter plot." width="100%">
 </picture>
 
+[![OpenCV examples](./icons/opencv.svg)](https://github.com/aditya-renake/opencv) [![NumPy examples](./icons/numpy.svg)](https://github.com/aditya-renake/numpy) [![pandas examples](./icons/pandas.svg)](https://github.com/aditya-renake/pandas) [![SQL examples](./icons/sql.svg)](https://github.com/aditya-renake/SQL)
+
 ## Featured projects
 
-### Virtual Mouse
+### <img src="./icons/virtual-mouse.svg" width="26" height="26" align="absmiddle" alt=""> Virtual Mouse
 
 Move your pointer with a hand gesture. A webcam tracks the hand and turns its movement into cursor input.
 
 [Virtual Mouse](https://github.com/aditya-renake/Virtual-Mouse) · [MediaPipe experiments](https://github.com/aditya-renake/mediapipe)
 
-### Eventra
+### <img src="./icons/eventra.svg" width="26" height="26" align="absmiddle" alt=""> Eventra
 
 From registration to the venue gate, each attendee carries one signed QR pass. Staff verify it with a browser camera at check-in.
 
@@ -21,7 +23,7 @@ From registration to the venue gate, each attendee carries one signed QR pass. S
 
 © 2026 Aditya Vinod Renake. I am the sole author and copyright owner of Eventra.
 
-### Sandhi.ai
+### <img src="./icons/sandhi.svg" width="26" height="26" align="absmiddle" alt=""> Sandhi.ai
 
 An osteoarthritis screening prototype that brings movement analysis and patient assessments into one app.
 
