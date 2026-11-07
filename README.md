@@ -1,6 +1,6 @@
 ![Aditya Renake · Machine learning, data analysis, and computer vision](./profile-banner.png)
 
-I build web apps and experiment with what a camera can do. My projects use camera input in different ways, from scanning event passes at the gate to turning hand movements into mouse controls.
+
 
 ## Featured build · Eventra
 
