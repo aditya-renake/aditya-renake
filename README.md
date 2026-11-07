@@ -10,7 +10,7 @@
 
 © 2026 Aditya Vinod Renake. I am the sole author and copyright owner of Eventra.
 
-[Try Eventra](https://eventra-2026.vercel.app) · [Explore the source](https://github.com/aditya-renake/Eventra)
+[Try Eventra](https://eventra-2026.vercel.app) 
 
 ## Computer vision and health
 
