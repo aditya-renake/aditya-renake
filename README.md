@@ -5,7 +5,7 @@
 
 [![OpenCV examples](./icons/opencv.svg)](https://github.com/aditya-renake/opencv) [![NumPy examples](./icons/numpy.svg)](https://github.com/aditya-renake/numpy) [![pandas examples](./icons/pandas.svg)](https://github.com/aditya-renake/pandas) [![SQL examples](./icons/sql.svg)](https://github.com/aditya-renake/SQL)
 
-## Featured projects
+## Featured projects.  
 
 ### <img src="./icons/virtual-mouse.svg" width="26" height="26" align="absmiddle" alt=""> Virtual Mouse
 
